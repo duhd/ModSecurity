@@ -5,7 +5,7 @@
 #include <string>
 
 #include "src/parser/driver.h"
-#include "src/parser/seclang-parser.hh"
+#include "src/parser/seclang-parser.h"
 #include "src/utils/https_client.h"
 #include "src/utils/string.h"
 
