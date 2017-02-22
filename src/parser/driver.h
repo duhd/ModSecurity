@@ -29,7 +29,7 @@
 #include "modsecurity/rules_properties.h"
 #include "modsecurity/audit_log.h"
 
-#include "src/parser/seclang-parser.hh"
+#include "src/parser/seclang-parser.h"
 
 using modsecurity::Rule;
 using modsecurity::Rules;
